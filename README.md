@@ -17,4 +17,4 @@ Focus marketing efforts on women (30–49 years) in Maharashtra, Karnataka, and 
 
 This exercise not only strengthened my Excel, data visualization, and storytelling skills but also highlighted how businesses can transform raw data into actionable strategies.
 
-[graphics](E-Commerce Sales Data Analysis MIS Project.png)
+[graphics](ECommerce_Sales_Data_Analysis_MIS_Project.png)
